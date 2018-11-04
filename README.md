@@ -1,4 +1,11 @@
-# Building a Tic Tac Toe Turn
+def display_board
+ puts '   |   |   '
+ puts '-----------'
+ puts '   |   |   '
+ puts '-----------'
+ puts '   |   |   '
+
+end# Building a Tic Tac Toe Turn
 
 ## Objectives
 
