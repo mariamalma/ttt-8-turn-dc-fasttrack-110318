@@ -24,7 +24,8 @@ end
 puts valid_move?(board,0)
     
 def    input_to_index(number)
-  number=number-1
+  hello=number.input_to_i
+  number=hello-1
 end 
 
 puts input_to_index("1")
